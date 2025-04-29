@@ -12,13 +12,6 @@ A **simple yet secure GUI-based Password Manager** built using **Python**, **Tki
 - 📁 Auto-generate & store encryption key
 - 💡 User-friendly interface with Tkinter
 
----
-
-## 🖥️ GUI Preview
-
-> Screenshot preview (Optional): Add a screenshot here!
-
----
 
 ## 🛠️ Tech Stack
 
