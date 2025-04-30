@@ -36,4 +36,5 @@ project/ │ ├── password_manager.py # Main application ├── secret.k
 **pip install cryptography**
 
 ## Run the app:
+```bash
 python password_manager.py
